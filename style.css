@@ -10,7 +10,7 @@
 }
 
 main {
-    height: 70vh;
+    min-height: 70vh;
     width: 100vw;
     background-color: #FFCD9E;
 }

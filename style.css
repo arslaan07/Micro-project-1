@@ -52,13 +52,12 @@ h1 {
 .register-button{
     border: 4px solid #282828;;
     border-radius: 8px;
-    flex: 1;
 }
 .register-button {
     background-color: #282828;
     color: #ffffff;
     border-radius: 8px;
-    padding: 10px 0;
+    padding: 10px 32px;
     font-family: "Inter", sans-serif;
     font-weight: 600;
     font-size: 20px;
